@@ -1,8 +1,3 @@
 /Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/app/AppMain.java
 /Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/app/ReaderController.java
-/Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/io/EpubLoader.java
 /Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/io/FileValidator.java
-/Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/model/EpubBook.java
-/Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/model/EpubChapter.java
-/Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/model/EpubResource.java
-/Users/brucewayne/Documents/UniDocuments/JavaOOFundamentals/FINAL/src/main/java/edu/unomaha/epubreader/render/EpubRenderer.java

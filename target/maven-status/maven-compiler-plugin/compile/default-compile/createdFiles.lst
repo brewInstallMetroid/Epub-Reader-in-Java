@@ -1,7 +1,3 @@
-edu/unomaha/epubreader/model/EpubChapter.class
-edu/unomaha/epubreader/render/EpubRenderer.class
-edu/unomaha/epubreader/model/EpubResource.class
-edu/unomaha/epubreader/io/FileValidator.class
 edu/unomaha/epubreader/app/AppMain.class
-edu/unomaha/epubreader/io/EpubLoader.class
 edu/unomaha/epubreader/app/ReaderController.class
+edu/unomaha/epubreader/io/FileValidator.class

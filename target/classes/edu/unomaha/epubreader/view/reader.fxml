@@ -1,1 +1,12 @@
-<!--- This will be the page content is read off of!!! -->
+<BorderPane fx:controller="edu.unomaha.epubreader.app.ReaderController"
+            xmlns:fx="http://javafx.com/fxml">
+
+    <left>
+        <ListView fx:id="chapterList" prefWidth="150"/>
+    </left>
+
+    <center>
+        <WebView fx:id="readerView"/>
+    </center>
+
+</BorderPane>
